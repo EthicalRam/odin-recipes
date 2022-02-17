@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic recepies website for the project found on <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes">The Odin Project</a>. Showcasing what I've learned in HTML so far. Includes, making broilerplates, using headings, adding images and links, using lists and paragraphs, as well as a helpful example of using git/github and the workflow.
